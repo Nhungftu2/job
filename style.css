@@ -55,10 +55,12 @@ body{
     box-sizing:border-box;
     padding : 20px ;
 }
-#main #right img{
+/* #main #right img{
     width: 290px;
     padding: 10px 10px 0px 0px;
-}
+} */
+
+
 #footer{
     background: rgb(252, 246, 246);
     width: 1000px;
